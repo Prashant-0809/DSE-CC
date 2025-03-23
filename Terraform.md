@@ -130,3 +130,10 @@ Deploy your EC2 instance:
 terraform apply -auto-approve
 ```
 ![Screenshot 2025-03-23 103751](https://github.com/user-attachments/assets/ed0bd2e9-4e21-41ea-8b03-9fb8b8d78224)
+
+![Screenshot 2025-03-23 103835](https://github.com/user-attachments/assets/7cc7d6f3-703c-4b10-a835-0c3df67f5815)
+
+![Screenshot 2025-03-23 104021](https://github.com/user-attachments/assets/06ad9cb9-2d8e-44e7-a9de-416a17aa3533)
+
+![Screenshot 2025-03-23 104038](https://github.com/user-attachments/assets/52845d02-45b7-48fe-809e-64f47a552d72)
+
