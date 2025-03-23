@@ -422,3 +422,45 @@ This strategy provides **the best of both worlds**, combining **OpenStack’s in
 ### **8. OpenStack on Kubernetes**  
 - **Cloud Service Providers**: Run **OpenStack services inside Kubernetes** to improve **scalability and management**.  
 - **Fairbanks.nl**: Uses **OpenStack over Kubernetes** for **modern cloud architectures**.  
+
+Cloud Deployment Strategies  
+│  
+├── Public Cloud  
+│   ├── Services: AWS, Google Cloud, Azure  
+│   ├── Example: Netflix (AWS), Spotify (Google Cloud)  
+│   ├── Benefits: Scalability, Cost-Effective, Global Reach  
+│  
+├── Private Cloud  
+│   ├── Services: OpenStack, VMware  
+│   ├── Example: Capital One (Secure Transactions), NASA (Research Data)  
+│   ├── Benefits: Security, Full Control, Compliance  
+│  
+├── Hybrid Cloud (Public on Private)  
+│   ├── Services: AWS + On-Prem, Azure Hybrid  
+│   ├── Example: IBM Hybrid Cloud, Adobe (Scaling)  
+│   ├── Benefits: Flexibility, Scalability, Cost Optimization  
+│  
+├── Multi-Public Cloud (Public on Public)  
+│   ├── Services: AWS + Google Cloud  
+│   ├── Example: Instagram, Airbnb  
+│   ├── Benefits: Redundancy, Avoid Vendor Lock-in, Global Presence  
+│  
+├── Dedicated Cloud on Public Infra (Private on Public)  
+│   ├── Services: VMware on AWS, Google VMware Engine  
+│   ├── Example: Healthcare (Secure Patient Data), Banking (Regulatory Compliance)  
+│   ├── Benefits: Control with Cloud Benefits, Compliance, Security  
+│  
+├── Multi-Private Cloud (Private on Private)  
+│   ├── Services: OpenStack Across Data Centers  
+│   ├── Example: Government Agencies, Johnson Matthey  
+│   ├── Benefits: Security, Disaster Recovery, Compliance  
+│  
+├── Kubernetes on OpenStack  
+│   ├── Services: OpenStack + Kubernetes (NFV, Orchestration)  
+│   ├── Example: Telecom (AT&T 5G), NFV for Network Operators  
+│   ├── Benefits: Container Management, Scalability  
+│  
+└── OpenStack on Kubernetes  
+    ├── Services: Kubernetes-Managed OpenStack  
+    ├── Example: Cloud Providers (Scalable OpenStack Management)  
+    ├── Benefits: Automation, Resource Efficiency, Scalability  
